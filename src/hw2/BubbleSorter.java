@@ -5,7 +5,7 @@ package hw2;
 import java.io.FileWriter;
 import java.util.Arrays;
 
-public class BubbleSort {
+public class BubbleSorter {
     public static void bubbleSort() {
         StringBuilder builder = new StringBuilder();
         int[] arr = {5, 3, 8, 1, 7, 2};
