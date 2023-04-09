@@ -7,5 +7,6 @@ public class Main {
 //        BubbleSort.bubbleSort();
 //        StringParse.parse();
 //        RandomArray.randomList();
+//        MaxValue.maxMinValue();
     }
 }

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class RandomArray {
-    public static void randomList(String[] args) {
+    public static void randomList() {
         Random rnd = new Random();
         ArrayList<Integer> arr  = new ArrayList<Integer>();
         for (int i = 0; i < 10; i++) {
